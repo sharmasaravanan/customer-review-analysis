@@ -34,8 +34,7 @@ This project focuses on analyzing customer reviews from Yelp to determine the se
 - Pandas
 - NumPy
 - Scikit-learn
-- TensorFlow or PyTorch
-- Transformers (for BERT)
+- transformers[torch]
 - Matplotlib or Seaborn (for visualization)
 
 ## How to Run
